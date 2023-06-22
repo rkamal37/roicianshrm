@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-21T23:46:30 GMT-04:00" name="OrangeHRM" finished-at="2023-06-21T23:47:04 GMT-04:00" duration-ms="34388">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T23:46:30 GMT-04:00" name="TestNG" finished-at="2023-06-21T23:47:04 GMT-04:00" duration-ms="34388">
+      <class name="testLayer.Logintest">
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:46:32 GMT-04:00" name="initialsetup" finished-at="2023-06-21T23:46:42 GMT-04:00" duration-ms="10544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:46:42 GMT-04:00" name="Login" data-provider="Details" finished-at="2023-06-21T23:46:44 GMT-04:00" duration-ms="1662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:46:44 GMT-04:00" name="close" finished-at="2023-06-21T23:46:45 GMT-04:00" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:46:45 GMT-04:00" name="initialsetup" finished-at="2023-06-21T23:46:54 GMT-04:00" duration-ms="8668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:46:54 GMT-04:00" name="Login" data-provider="Details" finished-at="2023-06-21T23:46:55 GMT-04:00" duration-ms="1340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admins]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:46:55 GMT-04:00" name="close" finished-at="2023-06-21T23:46:56 GMT-04:00" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initialsetup()[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:46:56 GMT-04:00" name="initialsetup" finished-at="2023-06-21T23:47:04 GMT-04:00" duration-ms="7884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialsetup -->
+        <test-method signature="Title()[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:47:04 GMT-04:00" name="Title" finished-at="2023-06-21T23:47:04 GMT-04:00" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.Logintest@2a65fe7c]" started-at="2023-06-21T23:47:04 GMT-04:00" name="close" finished-at="2023-06-21T23:47:04 GMT-04:00" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.Logintest -->
+    </test> <!-- TestNG -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>
